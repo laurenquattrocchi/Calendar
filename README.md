@@ -12,3 +12,7 @@ App:
     |_create.sql #to create db table/s
 |_templates
 	|_#html files
+
+
+future features:
+- allow for reoccuring events to be saved
